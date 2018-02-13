@@ -10,4 +10,6 @@ git clone https://github.com/muhammed-salman/webpack-upstar-music.git
 cd webpack-upstar-music
 npm install
 ```
-## Demo https://muhammed-salman.github.io/webpack-upstar-music/#/
+## Demo
+
+https://muhammed-salman.github.io/webpack-upstar-music/#/
